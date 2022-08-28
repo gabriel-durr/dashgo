@@ -1,7 +1,7 @@
 <h1 align="center" class="line-1 anim-typewriter">Dashgo</h1>
 
 <div align="center">
-        <img align="center" src="./.github/dashgo2.png" alt="Imagem do projeto"> 
+        <img align="center" src="./.github/dashgo.gif" alt="Imagem do projeto"> 
         
         
 </div>
@@ -21,7 +21,7 @@
 <h2 id="challenge"  align="center">⚡ The challenge </h2>
 
 <div align="center">
-        <p> DESCRIÇÃO DO PROJETO O projeto é um desafio... uma solução ... uma ideia ... </p>
+        <p>Dashgo. is an application to manage and explore users with a modern dashboard responsive. in addition to all the features created, the user validation and authentication part was also worked on and an app cache bonus with react query  </p>
 </div>
 
 <br/><br/>
@@ -59,10 +59,20 @@ React Hook Form: Performant, flexible and extensible forms with easy-to-use vali
 <img id="NEXTJS"  src="./.github/nextjs.webp" width="40px"  hspace="4"/>
 
 
-
 </p>
         
 </div>
+
+</br> 
+
+- [ReactJS](https://reactjs.org/)
+- [TypeScript](https://www.typescriptlang.org/)
+- [Chakra UI](https://chakra-ui.com/)
+- [Next.js](https://nextjs.org/)
+- [React Hook Form](https://react-hook-form.com/)
+- [React Query](https://react-query.tanstack.com/)
+- [Mirage JS](https://miragejs.com/)
+
 
 <br>
 
