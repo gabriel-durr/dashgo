@@ -47,41 +47,17 @@ Axios: Axios is a simple promise-based HTTP client for the browser and node.js. 
 
 <img id="REACTJS"  src="./.github/reactjs.png" width="39px"   hspace="4"/>
 
-<img id="PRISMIC-CMS" src="./.github/prismiccms.png" width="34px"  hspace="4" />
-
-<img id="STRIPE" src="./.github/stripe.png" width="62px"  hspace="4"/>
-
 <img id="REACTQUERY" src="./.github/reactquery.png" width="32px"  hspace="4"/>
-
-<img id="FAUNADB" src="./.github/faunadb.webp" width="35px"  hspace="4"/>
-
-<img id="AXIOS" src="./.github/axios.png" width="35px"  hspace="4"/>
-
-<img id="REACT-NATIVE" src="./.github/reactnative.png" width="38px"  hspace="4"/> 
                                                                    
 <img id="CHAKRA-UI"  src="./.github/chakraui.png" width="36px"  hspace="4"/>
                                                                           
-<img id="EXPO-CLI" src="./.github/expocli.png" width="36px"  hspace="4"/> 
+<img id="MIRAGEJS" src="./.github/miragejs.png" width="36px"  hspace="4"/> 
                                                            
 <img align="TYPESCRIPT"  src="./.github/typescript.png" width="36px"  hspace="4"/>
 
 <img id="NEXTJS"  src="./.github/nextjs.webp" width="40px"  hspace="4"/>
 
-<img  id="TAILWINDCSS" src="./.github/tailwindcss.png" width="38px"  hspace="4"/>
-                                                                   
-<img  id="JEST" class="icon" src="./.github/jest.png" width="33px"  hspace="4"/>
-                                                                  
-<img id="PRISMA-IO" src="./.github/prismaio.png" width="36px"  hspace="4"/>
 
-<img id="NODE-JS" src="./.github/nodejs.svg" width="39px"  hspace="4"/>
-                                                         
-<img id="JAVASCRIPT" src="./.github/javascript.png" width="42px"  hspace="4"/>
-
-<img id="CSS3" src="./.github/css3.png" width="38px"  hspace="4"/>
-                                                    
-<img id="HTML" src="./.github/html.png" width="38px"  hspace="4"/>
-
-<img id="STYLED-COMPONENTS" src="./.github/styledcomponents.png" width="32px"  hspace="4"/>
 
 </p>
         
@@ -102,21 +78,19 @@ Axios: Axios is a simple promise-based HTTP client for the browser and node.js. 
 1. <b>Clone the project</b>
 
 ```bash
-  $ git clone URL DO PROJETO && cd NOME DA PASTA DO PROJETO
+  $ git clone https://github.com/gabriel-durr/dashgo && cd dashgo
 ```
 
 2. <b>Install dependencies</b>
 
 ```bash
-  $ expo install
-  $ yarn add or npm install
+  $ yarn 
 ```
 
 3. <b>Start the application</b>
 
 ```bash
-  $ expo start
-  $ yarn start or npm start
+  $ yarn dev
 ```
 
 </div>
