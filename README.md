@@ -1,7 +1,8 @@
-<h1 align="center" class="line-1 anim-typewriter"> NOME DO PROJETO</h1>
+<h1 align="center" class="line-1 anim-typewriter">Dashgo</h1>
 
 <div align="center">
-        <img align="center" src="./.github/snoopPao.png" alt="Imagem do projeto" width="57%"> 
+        <img align="center" src="./.github/dashgo2.png" alt="Imagem do projeto"> 
+        
         
 </div>
 
@@ -33,7 +34,7 @@ ReactJS: A JavaScript library for creating interfaces ... [Learn More](https://p
 
 ChakraUI: Chakra UI is a simple, modular and accessible component library that gives you the ... [Learn More](https://chakra-ui.com/ "Clique para ser redirecionado!")
 
-Axios: Axios is a simple promise-based HTTP client for the browser and node.js. Axios provides a library... [Learn More](https://axios-http.com/ptbr/ "Clique para ser redirecionado!")
+React Hook Form: Performant, flexible and extensible forms with easy-to-use validation.... [Learn More](https://react-hook-form.com/get-started/ "Clique para ser redirecionado!")
 
 <br/><br/>
 
