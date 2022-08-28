@@ -36,6 +36,7 @@ ChakraUI: Chakra UI is a simple, modular and accessible component library that g
 
 React Hook Form: Performant, flexible and extensible forms with easy-to-use validation.... [Learn More](https://react-hook-form.com/get-started/ "Clique para ser redirecionado!")
 
+
 <br/><br/>
 
 <h2 id="built_with"> 🧙‍♂️ Built with</h2>
